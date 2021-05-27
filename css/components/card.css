@@ -1,0 +1,21 @@
+.cards-container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-details {
+  height:  200px;
+  width:  200px;
+  background:  white;
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+  padding: 20px;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+}
+
+.card-details img {
+  height:  100px;
+  width:  100px;
+  border-radius: 3px;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+}
